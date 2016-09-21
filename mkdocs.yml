@@ -1,6 +1,7 @@
 site_name: Navigation test
 site_description: Nav test
 theme: readthedocs
+repo_url: https://github.com/ajitchelat/ghpages_test
 markdown_extensions:
   - admonition
   - codehilite
